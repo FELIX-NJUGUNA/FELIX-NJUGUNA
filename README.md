@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Njuguna</h1>
-<h3 align="center">A passionate mobile app developer from Kenya</h3>
+<h3 align="center">A passionate mobile app developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-njuguna&label=Profile%20views&color=0e75b6&style=flat" alt="felix-njuguna" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bloom HR Management System**
+- 🔭 I’m currently using **Flutter framework and Node Js as my backend**
 
-- 🌱 I’m currently learning **Flutter Architecture including Bloc, Riverpod and Clean architecture**
+- 🌱 I’m also **open** to any contributions in any projects
 
 - 📫 How to reach me **felixnjuguna443@gmail.com**
 
