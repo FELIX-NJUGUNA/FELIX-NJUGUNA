@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently using **Flutter framework and Node Js as my backend**
+- 🔭 I’m currently using **Flutter framework and learning Golang for backend**
 
 - 🌱 I’m also **open** to any contributions in any projects
 
