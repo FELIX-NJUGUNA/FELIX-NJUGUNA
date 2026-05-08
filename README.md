@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Njuguna</h1>
-<h3 align="center">Finding solutions to problems is my thing.</h3>
+<h3 align="center">Am open for ideas and collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-njuguna&label=Profile%20views&color=0e75b6&style=flat" alt="felix-njuguna" /> </p>
 
