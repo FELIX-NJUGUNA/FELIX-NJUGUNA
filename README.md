@@ -48,7 +48,7 @@
 
 **Mobile**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,reactnative" height="48" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" height="48" alt="Mobile Stack" />
 </div>
 
 **Databases & Cloud**
@@ -66,12 +66,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix-njuguna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felix-njuguna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felix-njuguna&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=felix-njuguna&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felix-njuguna&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felix-njuguna&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felix-njuguna&theme=tokyonight" alt="Most Used Language" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=felix-njuguna&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,8 +96,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felix-njuguna/felix-njuguna/pacman-output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/felix-njuguna/felix-njuguna/pacman-output/pacman-contribution-graph.svg" />
 </picture>
-
-> 💡 **To enable the Pac-Man graph**, add [this GitHub Action](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) to your profile repo and update the branch name to `pacman-output`.
 
 ---
 
